@@ -1,0 +1,12 @@
+E:\MyProjects\LinkHubCore\LHBOL\bin\Debug\netcoreapp2.0\LHBOL.deps.json
+E:\MyProjects\LinkHubCore\LHBOL\bin\Debug\netcoreapp2.0\LHBOL.dll
+E:\MyProjects\LinkHubCore\LHBOL\bin\Debug\netcoreapp2.0\LHBOL.pdb
+E:\MyProjects\LinkHubCore\LHBOL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.dll
+E:\MyProjects\LinkHubCore\LHBOL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Identity.Stores.xml
+E:\MyProjects\LinkHubCore\LHBOL\obj\Debug\netcoreapp2.0\LHBOL.csprojAssemblyReference.cache
+E:\MyProjects\LinkHubCore\LHBOL\obj\Debug\netcoreapp2.0\LHBOL.csproj.CoreCompileInputs.cache
+E:\MyProjects\LinkHubCore\LHBOL\obj\Debug\netcoreapp2.0\LHBOL.AssemblyInfoInputs.cache
+E:\MyProjects\LinkHubCore\LHBOL\obj\Debug\netcoreapp2.0\LHBOL.AssemblyInfo.cs
+E:\MyProjects\LinkHubCore\LHBOL\obj\Debug\netcoreapp2.0\LHBOL.csproj.CopyComplete
+E:\MyProjects\LinkHubCore\LHBOL\obj\Debug\netcoreapp2.0\LHBOL.dll
+E:\MyProjects\LinkHubCore\LHBOL\obj\Debug\netcoreapp2.0\LHBOL.pdb
